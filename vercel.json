@@ -1,0 +1,11 @@
+{
+  "experimentalServices": {
+    "backend": {
+      "root": "backend",
+      "mountPath": "/api/backend"
+    },
+    "frontend": {
+      "root": "frontend"
+    }
+  }
+}
