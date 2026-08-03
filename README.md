@@ -309,7 +309,6 @@ GitHub: [@Khushi232505](https://github.com/Khushi232505)
 
 <div align="center">
 
-Made with ❤️ and powered by AI
 
 ⭐ Star this repo if it helped you land your dream job!
 
